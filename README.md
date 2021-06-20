@@ -11,7 +11,7 @@
 
 ***
 
-### Google's Magenta Piano Transformers: https://magenta.tensorflow.org/piano-transformer
+### [Google's Magenta Piano Transformers](https://magenta.tensorflow.org/piano-transformer)
 
 ### [=The Voice=](https://soundcloud.com/aleksandr-sigalov-61/sets/google-piano-transformer)
 
@@ -19,7 +19,7 @@
 
 ***
 
-### Countless nameless:
+### [Countless nameless](https://github.com/topics/music-generation)
 
 ### [=The Voice=](https://soundcloud.com/aleksandr-sigalov-61/optimus-virtuoso-3-musenet-1)
 
