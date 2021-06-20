@@ -21,7 +21,7 @@
 
 ### [Countless nameless](https://github.com/topics/music-generation)
 
-### [=The Voice=](https://soundcloud.com/aleksandr-sigalov-61/optimus-virtuoso-3-musenet-1)
+### [=The Voice=](https://soundcloud.com/aleksandr-sigalov-61/optimus-virtuoso-3-musenet)
 
 ### [=Original=](https://github.com/topics/music-generation)
 
